@@ -1,0 +1,16 @@
+[
+  {
+    "remote": "github",
+    "repository": "HyperTeam/android_kernel_xiaomi_phoenix",
+    "target_path": "kernel/xiaomi/phoenix"
+    "branch": "lineage-17.1,
+    "clone-depth": "1"
+  },
+  {
+    "remote": "github",
+    "repository": "HyperTeam/proprietary_vendor_xiaomi_phoenix",
+    "target_path": "vendor/xiaomi/phoenix"
+    "branch": "lineage-17.1,
+    "clone-depth": "1"
+  }
+]
